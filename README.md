@@ -14,8 +14,8 @@
 
 <br>
 
-- Acualmene estudio programacion en 42Madrid
-- Tambien estudio de forma mas autodidacta ciberseguridad
+- Actualmene estudio programacion en 42Madrid
+- Tambien estudio ciberseguridad de forma más autodidacta
 - También he indagado un poco acerca del diseño web (html, css, js)
 
 <br><br>
