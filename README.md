@@ -79,7 +79,7 @@
 
 <div align='center'>
 
-## <b>✨</b>
+## ✨
 
 </div>
 <br>
