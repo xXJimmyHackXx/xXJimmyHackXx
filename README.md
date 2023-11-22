@@ -12,7 +12,6 @@
 
 
 
-<br>
 
 - Currently, I am studying programming at 42Madrid
 - I am also exploring cybersecurity in a more self-taught manner
