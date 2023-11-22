@@ -14,9 +14,9 @@
 
 <br>
 
-- Actualmene estudio programacion en 42Madrid
-- Tambien estudio ciberseguridad de forma más autodidacta
-- También he indagado un poco acerca del diseño web (html, css, js)
+- Currently, I am studying programming at 42Madrid
+- I am also exploring cybersecurity in a more self-taught manner
+- Additionally, I have delved into web design a bit (HTML, CSS, JS)
 
 <br>
 
